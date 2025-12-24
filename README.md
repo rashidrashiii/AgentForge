@@ -42,7 +42,7 @@ The core agentic loop is functional, but the project is not yet fully complete.
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/rashidrashiii/agent-forge.git
+    git clone https://github.com/rashidrashiii/AgentForge.git
     cd agent-forge
     ```
 
